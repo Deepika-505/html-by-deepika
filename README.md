@@ -1,2 +1,2 @@
-# html-by-deepika
-This repository contains my HTML projects and practice code
+# python-by-deepika
+This repository contains my Python projects and practice code
